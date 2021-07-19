@@ -2,7 +2,7 @@ http://sk-entertainment.ezyro.com/
 
 My first ever project, which I made to graduate from WEB development courses
 
-It was designed to be responsive
+It was designed to be responsive <br>
 You have an ability to search for a profile
 There are modals
 Galleries
